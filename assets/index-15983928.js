@@ -888,4 +888,4 @@ Values:
 `,BY=To.div`
   max-width: 900px;
   margin: 0 auto;
-`;function EY(){const{network:e}=Kp();return kn(AY,{children:kn(BY,{children:Qd(gE,{children:[Qd(pE,{children:[kn(vH,{}),kn(mE,{children:e?e===eu.MAINNET?"mainnet":"testnet":"N/A"})]}),kn(CY,{})]})})})}const PY="https://samarth30.github.io/alefmanvladimir/tonconnect-manifest.json",IY=new oP({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});pb.createRoot(document.getElementById("root")).render(kn(gH,{manifestUrl:PY,children:kn(hT,{client:IY,children:kn(EY,{})})}));
+`;function EY(){const{network:e}=Kp();return kn(AY,{children:kn(BY,{children:Qd(gE,{children:[Qd(pE,{children:[kn(vH,{}),kn(mE,{children:e?e===eu.MAINNET?"mainnet":"testnet":"N/A"})]}),kn(CY,{})]})})})}const PY="https://samarth30.github.io/ton-dapp/tonconnect-manifest.json",IY=new oP({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});pb.createRoot(document.getElementById("root")).render(kn(gH,{manifestUrl:PY,children:kn(hT,{client:IY,children:kn(EY,{})})}));
